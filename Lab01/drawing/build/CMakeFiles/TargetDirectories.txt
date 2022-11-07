@@ -1,0 +1,3 @@
+/Users/shaystevens/Desktop/COSC342/Lab01/drawing/build/CMakeFiles/drawing.dir
+/Users/shaystevens/Desktop/COSC342/Lab01/drawing/build/CMakeFiles/edit_cache.dir
+/Users/shaystevens/Desktop/COSC342/Lab01/drawing/build/CMakeFiles/rebuild_cache.dir

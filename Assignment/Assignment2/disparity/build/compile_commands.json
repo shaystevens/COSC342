@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Assignment/Assignment2/disparity/build",
+  "command": "/usr/bin/clang++  -I/usr/local/opt/opencv/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/disparity.dir/disparity.cpp.o -c /Users/shaystevens/Desktop/COSC342/Assignment/Assignment2/disparity/disparity.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Assignment/Assignment2/disparity/disparity.cpp"
+},
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Assignment/Assignment2/disparity/build",
+  "command": "/usr/bin/clang++  -I/usr/local/opt/opencv/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/disparity.dir/CalibrationIO.cpp.o -c /Users/shaystevens/Desktop/COSC342/Assignment/Assignment2/disparity/CalibrationIO.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Assignment/Assignment2/disparity/CalibrationIO.cpp"
+},
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Assignment/Assignment2/disparity/build",
+  "command": "/usr/bin/clang++  -I/usr/local/opt/opencv/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/disparity.dir/Timer.cpp.o -c /Users/shaystevens/Desktop/COSC342/Assignment/Assignment2/disparity/Timer.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Assignment/Assignment2/disparity/Timer.cpp"
+}
+]

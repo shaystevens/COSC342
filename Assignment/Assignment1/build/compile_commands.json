@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Assignment/Assignment1/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/Cellar/opencv/4.5.5/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/features.dir/featureMatching.cpp.o -c /Users/shaystevens/Desktop/COSC342/Assignment/Assignment1/featureMatching.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Assignment/Assignment1/featureMatching.cpp"
+},
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Assignment/Assignment1/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/Cellar/opencv/4.5.5/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/features.dir/Timer.cpp.o -c /Users/shaystevens/Desktop/COSC342/Assignment/Assignment1/Timer.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Assignment/Assignment1/Timer.cpp"
+}
+]

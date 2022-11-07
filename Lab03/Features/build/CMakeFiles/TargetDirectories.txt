@@ -1,0 +1,3 @@
+/Users/shaystevens/Desktop/COSC342/Lab03/Features/build/CMakeFiles/features.dir
+/Users/shaystevens/Desktop/COSC342/Lab03/Features/build/CMakeFiles/edit_cache.dir
+/Users/shaystevens/Desktop/COSC342/Lab03/Features/build/CMakeFiles/rebuild_cache.dir

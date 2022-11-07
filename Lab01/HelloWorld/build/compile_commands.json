@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab01/HelloWorld/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/helloWorld.dir/hello.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab01/HelloWorld/hello.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab01/HelloWorld/hello.cpp"
+}
+]

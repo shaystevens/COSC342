@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab06/Calibration/Calibration/build",
+  "command": "/usr/bin/clang++  -I/usr/local/opt/opencv/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/stereoCalibration.dir/stereoCalibration.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab06/Calibration/Calibration/stereoCalibration.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab06/Calibration/Calibration/stereoCalibration.cpp"
+},
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab06/Calibration/Calibration/build",
+  "command": "/usr/bin/clang++  -I/usr/local/opt/opencv/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/stereoCalibration.dir/CalibrationIO.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab06/Calibration/Calibration/CalibrationIO.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab06/Calibration/Calibration/CalibrationIO.cpp"
+}
+]

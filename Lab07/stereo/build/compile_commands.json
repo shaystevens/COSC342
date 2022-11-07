@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab07/stereo/build",
+  "command": "/usr/bin/clang++  -I/usr/local/opt/opencv/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/stereo.dir/stereo.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab07/stereo/stereo.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab07/stereo/stereo.cpp"
+},
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab07/stereo/build",
+  "command": "/usr/bin/clang++  -I/usr/local/opt/opencv/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/stereo.dir/CalibrationIO.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab07/stereo/CalibrationIO.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab07/stereo/CalibrationIO.cpp"
+}
+]

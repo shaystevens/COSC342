@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab01/drawing/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/Cellar/opencv/4.5.5/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++14 -o CMakeFiles/drawing.dir/drawing.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab01/drawing/drawing.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab01/drawing/drawing.cpp"
+}
+]

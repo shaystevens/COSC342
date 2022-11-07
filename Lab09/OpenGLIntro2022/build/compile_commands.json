@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/usr/local/lib -I/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/. -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/Part01.dir/Part01/simpleWindow.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/Part01/simpleWindow.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/Part01/simpleWindow.cpp"
+},
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/usr/local/lib -I/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/. -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/Part02.dir/Part02/redTriangle.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/Part02/redTriangle.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/Part02/redTriangle.cpp"
+},
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/usr/local/lib -I/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/. -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/Part02.dir/common/Shader.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/common/Shader.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/common/Shader.cpp"
+},
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/usr/local/lib -I/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/. -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/Part02.dir/common/Camera.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/common/Camera.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/common/Camera.cpp"
+},
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/usr/local/lib -I/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/. -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/Part02.dir/common/Scene.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/common/Scene.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/common/Scene.cpp"
+},
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/usr/local/lib -I/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/. -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/Part02.dir/common/Object.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/common/Object.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/common/Object.cpp"
+},
+{
+  "directory": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/build",
+  "command": "/usr/bin/clang++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/usr/local/lib -I/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/. -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/Part02.dir/common/Triangle.cpp.o -c /Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/common/Triangle.cpp",
+  "file": "/Users/shaystevens/Desktop/COSC342/Lab09/OpenGLIntro2022/common/Triangle.cpp"
+}
+]

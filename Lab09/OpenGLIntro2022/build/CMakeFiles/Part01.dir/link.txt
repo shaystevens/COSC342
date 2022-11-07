@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Part01.dir/Part01/simpleWindow.cpp.o -o Part01  -Wl,-rpath,/usr/local/lib -framework OpenGL -framework OpenGL /usr/local/lib/libglfw.3.3.dylib 
